@@ -8,7 +8,7 @@ class StaticVar {
     public static int count = 0;
 
     public int id;
-
+// constructor
     public StaticVar() {
 
         id = count;
