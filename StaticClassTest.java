@@ -13,4 +13,5 @@ class StaticClassTest
         // calling m1 without creating any object of class test
         m1();
     }
+
 }
